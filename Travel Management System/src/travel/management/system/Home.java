@@ -30,10 +30,10 @@ public class Home extends JFrame{
 	NewLabel.setBounds(0, 0, 1950, 1000); 
         add(NewLabel);
         
-        JLabel l1 = new JLabel("Travel and Tourism Management System");
+        JLabel l1 = new JLabel("Rajasthan Tourism Management System");
 	l1.setForeground(Color.WHITE);
         l1.setFont(new Font("Tahoma", Font.PLAIN, 55));
-	l1.setBounds(500, 60, 1000, 100);
+	l1.setBounds(80, 60, 1000, 100);
 	NewLabel.add(l1);
 		
 		

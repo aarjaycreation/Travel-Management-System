@@ -13,7 +13,7 @@ public class Conn{
     public Conn(){  
         try{  
             Class.forName("com.mysql.jdbc.Driver");  
-            c =DriverManager.getConnection("jdbc:mysql:///tms","root","root"); 
+            c =DriverManager.getConnection("jdbc:mysql:///tms","root","Zxcvbnm91++"); 
             
             s =c.createStatement();  
             
